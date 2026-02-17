@@ -65,9 +65,9 @@
 ### 📊 Statistik GitHub
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=emecogan&show_icons=true&locale=id&theme=tokyonight&hide_border=true" alt="Statistik GitHub Chrisnawan" />
+  <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=emecogan&show_icons=true&locale=id&theme=tokyonight&hide_border=true" alt="Statistik GitHub" />
   <br/><br/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=emecogan&layout=compact&locale=id&theme=tokyonight&hide_border=true" alt="Bahasa Teratas" />
+  <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=emecogan&layout=compact&locale=id&theme=tokyonight&hide_border=true" alt="Bahasa Teratas" />
 </p>
 
 ---
